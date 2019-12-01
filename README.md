@@ -4,6 +4,6 @@
 
 [1] 王强等译, Randal W.Beard等著. 小型无人机理论与应用[M]. 国防工业出版社，2017.
 ****
-This quadrotor simulator is build in MATLAB upon the foundation of another fixed wing simulator stored in repository https://github.com/stan-lu/Fixed-wing-simulator. It also makes use of the skeleton code provided by [1]. I modified it to achieve the goal of performing cooperative monitoring formation, of which the code cannot be provided because a patent about it is under reviewed by now.
+This quadrotor simulator is build in MATLAB upon the foundation of another fixed wing simulator stored in repository https://github.com/stan-lu/Fixed-wing-simulator. It also makes use of the skeleton code provided by [1]. I modified it to achieve the goal of performing cooperative monitoring formation, of which the code cannot be provided because a patent about it is under review by now.
 
 [1]. Beard, Randal W., and Timothy W. McLain. Small unmanned aircraft: Theory and practice. Princeton university press, 2012.
